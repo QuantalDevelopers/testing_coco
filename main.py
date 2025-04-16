@@ -1,3 +1,5 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHo4gvQ8P41KbX7yYDnthVPjjJ5NiiAYahSn59O0P7L9 quantal_macmini@Quantal-MacMinis-Mac-mini.local
+
 import datetime
 import json
 import os
